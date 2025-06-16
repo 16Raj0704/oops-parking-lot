@@ -93,6 +93,5 @@ oops-parking/
 This project is licensed under the MIT License
 
 ### 👤 Author 
-```bash
+
 GitHub: @16Raj0704
-```
