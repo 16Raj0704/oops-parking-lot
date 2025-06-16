@@ -46,14 +46,15 @@ cd oops-parking
 ### 2️⃣ Compile
 ```bash
 g++ main.cpp -o parking
----
+```
 ### 3️⃣ Run 
+
 ```bash
 ./parking 
----
+```
  
 ## Usage
-
+```bash
 create_parking_lot 6
 park KA-01-HH-1234 White
 park KA-01-HH-9999 White
@@ -61,33 +62,37 @@ leave 2
 status
 registration_numbers_for_cars_with_colour White
 
+```
 ## 📤 Sample I/O
 
 ### input
+```bash
 create_parking_lot 3
 park KA-01-HH-1234 White
 park KA-01-HH-9999 Black
 park KA-01-BB-0001 Red
 leave 1
-
+```
 ###📥 Output
-
+```bash
 Created a parking lot with 3 slots
 Allocated slot number: 1
 Allocated slot number: 2
 Allocated slot number: 3
 Slot number 1 is free
 
-
-## 📁 Folder Structure 
+```
+## 📁 Folder Structure
+```bash
 oops-parking/
 ├── main.cpp           # Core logic
 ├── README.md          # Project documentation
 └── input.txt (optional)
-
+```
 ###  📝 License 
 This project is licensed under the MIT License
 
 ### 👤 Author 
-
+```bash
 GitHub: @16Raj0704
+```
