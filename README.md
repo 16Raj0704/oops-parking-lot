@@ -96,7 +96,7 @@ This project is licensed under the MIT License
 
 **Raj**  
 GitHub: [@16Raj0704](https://github.com/16Raj0704)  
-🚀 LeetCode: [leetcode.com/your-username](https://leetcode.com/raj0014) 
-💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rajmohite)
+🚀 LeetCode: [raj0014](https://leetcode.com/raj0014) 
+💼 LinkedIn: [rajmohite](https://www.linkedin.com/in/rajmohite)
 
 ---
