@@ -3,8 +3,8 @@
 A C++ implementation of a Parking Lot Management System following Object-Oriented Programming principles. This project demonstrates practical usage of classes, encapsulation, and STL containers to simulate real-world parking operations.
 
 ---
-
 ## 📌 Table of Contents
+
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -12,7 +12,6 @@ A C++ implementation of a Parking Lot Management System following Object-Oriente
 - [Usage](#usage)
 - [Sample I/O](#sample-io)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -43,6 +42,52 @@ A C++ implementation of a Parking Lot Management System following Object-Oriente
 
 git clone https://github.com/16Raj0704/oops-parking.git
 cd oops-parking
-# oops-parking-lot
+
+### 2️⃣ Compile
 
 g++ main.cpp -o parking
+
+### 3️⃣ Run 
+
+./parking 
+
+ 
+## Usage
+
+create_parking_lot 6
+park KA-01-HH-1234 White
+park KA-01-HH-9999 White
+leave 2
+status
+registration_numbers_for_cars_with_colour White
+
+## 📤 Sample I/O
+
+### input
+create_parking_lot 3
+park KA-01-HH-1234 White
+park KA-01-HH-9999 Black
+park KA-01-BB-0001 Red
+leave 1
+
+###📥 Output
+
+Created a parking lot with 3 slots
+Allocated slot number: 1
+Allocated slot number: 2
+Allocated slot number: 3
+Slot number 1 is free
+
+
+## 📁 Folder Structure 
+oops-parking/
+├── main.cpp           # Core logic
+├── README.md          # Project documentation
+└── input.txt (optional)
+
+###  📝 License 
+This project is licensed under the MIT License
+
+### 👤 Author 
+
+GitHub: @16Raj0704
