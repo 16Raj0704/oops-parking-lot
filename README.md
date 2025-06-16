@@ -44,13 +44,13 @@ git clone https://github.com/16Raj0704/oops-parking.git
 cd oops-parking
 
 ### 2️⃣ Compile
-
+```bash
 g++ main.cpp -o parking
-
+---
 ### 3️⃣ Run 
-
+```bash
 ./parking 
-
+---
  
 ## Usage
 
