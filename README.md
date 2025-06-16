@@ -63,6 +63,8 @@ status
 registration_numbers_for_cars_with_colour White
 
 ```
+
+---
 ## 📤 Sample I/O
 
 ### input
@@ -73,15 +75,16 @@ park KA-01-HH-9999 Black
 park KA-01-BB-0001 Red
 leave 1
 ```
-###📥 Output
+### 📥 Output
 ```bash
 Created a parking lot with 3 slots
 Allocated slot number: 1
 Allocated slot number: 2
 Allocated slot number: 3
 Slot number 1 is free
-
+ 
 ```
+---
 ## 📁 Folder Structure
 ```bash
 oops-parking/
@@ -89,14 +92,14 @@ oops-parking/
 ├── README.md          # Project documentation
 └── input.txt (optional)
 ```
+---
 ###  📝 License 
 This project is licensed under the MIT License
 
+---
 ### 👤 Author 
 
 **Raj**  
 GitHub: [@16Raj0704](https://github.com/16Raj0704)  
 🚀 LeetCode: [raj0014](https://leetcode.com/raj0014) 
 💼 LinkedIn: [rajmohite](https://www.linkedin.com/in/rajmohite)
-
----
